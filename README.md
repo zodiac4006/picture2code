@@ -1,5 +1,5 @@
 # Picture2Code
-## git init command
+### git init command
  1. echo "# picture2code" >> README.md
  2. git init
  3. git add README.md 
